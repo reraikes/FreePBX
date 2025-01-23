@@ -1,5 +1,3 @@
-https://www.dslreports.com/forum/r30661088-PBX-FreePBX-for-the-Raspberry-Pi
-
 The included script (install) and archive (install.tar.gz) will build
 FreePBX 15, 16, or 17 plus Asterisk 18, 20, 21, or 22 on a Raspberry Pi.
 iptables, dnsmasq, and exim4 are also installed.
